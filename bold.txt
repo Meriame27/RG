@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 okkkkkkk
+=======
+okk
+>>>>>>> c09f522671585aa67f32c0e74da5b133ccfbf03c
